@@ -1,4 +1,4 @@
-Hi, I’m Akash and I am currently doing Bachelor Of Software Engineering at University Of The South Pacific.
+Rawrrr
 
 <!---
 AkashFiji/AkashFiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
