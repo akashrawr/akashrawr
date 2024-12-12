@@ -9,10 +9,10 @@
 <br/>
  
 <div align="center"> 
-  <a href="mailtoakashkm553@gmail.com">
+  <a href="mailto:akashkm553@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://akashrawr.github.io" target="_blank">
+  <a href="https://akashrawr.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
