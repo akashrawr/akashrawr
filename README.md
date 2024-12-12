@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://github.com/akashrawr/akashrawr/blob/84668ec1a79b06a0534d98a2099a1f89a79cc599/gif/tech.gif" height="200" alt="aesthetic" />
+  <img src="https://github.com/akashrawr/akashrawr/blob/84668ec1a79b06a0534d98a2099a1f89a79cc599/gif/tech.gif" height="300" alt="aesthetic" />
 </div>
-
-<hr>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akashrawr.akashrawr" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Mishra!;" />
@@ -52,7 +49,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrawr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akashrawr.akashrawr" />
 
 <br/><br/>
 
