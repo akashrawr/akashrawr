@@ -39,7 +39,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akashrawr/akashrawr/output/github-snake-dark.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
