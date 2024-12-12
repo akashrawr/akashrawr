@@ -1,7 +1,7 @@
-
 <div align="center">
-  <img src="https://github.com/akashrawr/akashrawr/tree/main/gif/tech.gif" height="200" alt="asethetic"  />
+  <img src="https://github.com/akashrawr/akashrawr/blob/84668ec1a79b06a0534d98a2099a1f89a79cc599/gif/tech.gif" height="200" alt="aesthetic" />
 </div>
+
 <hr>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akashrawr.akashrawr" />
 
