@@ -1,6 +1,6 @@
-<br clear="both">
+
 <div align="center">
-  <img src="https://github.com/akashrawr/akashrawr/gif/tech.gif" height="200" alt="terminal"  />
+  <img src="https://github.com/akashrawr/akashrawr/tree/main/gif/tech.gif" height="200" alt="asethetic"  />
 </div>
 <hr>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akashrawr.akashrawr" />
